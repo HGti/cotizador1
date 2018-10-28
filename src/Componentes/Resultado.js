@@ -7,6 +7,7 @@ class Resultado extends Component {
 
           return(
             <div clasName="gran-total">
+                {/*Comment*/}
                 <TransitionGroup component="span" className="resultado">
                     <CSSTransition
                         className="resultado"

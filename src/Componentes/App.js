@@ -56,7 +56,6 @@ class App extends Component {
           />
 
           <div className="contenedor-formulario">
-              {/*Comentario epico*/}
               <Formulario
               cotizarSeguro={this.cotizarSeguro}
               />
